@@ -1,6 +1,6 @@
 # MathViz - A math visualizer you didn't need
 
-I was thinking about visualizing math functions, and decided to implement, how hard could it be?
+I was thinking about visualizing math functions, and decided to implement it
 
 # Examples
 
